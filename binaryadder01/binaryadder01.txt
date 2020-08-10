@@ -1,0 +1,3 @@
+bitRead(x,n)
+x:”
+n:lsb‚©‚ç‚Ìbit‚ÌˆÊ’u
