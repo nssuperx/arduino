@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "lfo01\\lfo01.ino"
+    "sketch": "blink_pullup\\blink_pullup.ino"
 }
