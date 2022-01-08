@@ -1,2 +1,2 @@
-# arduino
+# arduino-sketch
 arduinoであそんだもの
